@@ -1,1 +1,2 @@
 # MyCScode
+ini adalah percobaan
